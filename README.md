@@ -1,1 +1,1 @@
-# LA5c
+Calculating hitting time features for IMPAC data
